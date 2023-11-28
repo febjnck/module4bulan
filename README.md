@@ -12,7 +12,7 @@ Build Prop buat bikin YouTube Premium 4 Bulan 🗿
 
 [**Download the latest module YT PREM 4 Bulan here**](https://github.com/febjnck/module4bulan/releases/latest).
 
-- iInstall Jamu Youtube
+- Install Module Jamu Youtube
 
 [**Download the latest module YT PREM 4 Bulan here**](https://github.com/febjnck/jamuyoutube/releases/latest).
 
